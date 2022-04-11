@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/drawable/bg_button.xml" value="0.1145" />
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/drawable/bg_button2.xml" value="0.1145" />
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/layout/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/layout/activity_hitung_balok.xml" value="0.25416666666666665" />
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/layout/activity_hitung_limas_segi_empat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Z ANNISA APRILIYANTI - KULIAH/SEMESTER 6/PEMROGRAMAN ANDROID/PROJECT BANGUN DATAR BANGUN RUANG/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

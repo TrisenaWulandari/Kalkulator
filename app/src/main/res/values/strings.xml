@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    //bangun datar
+    <string name="bangun_datar">Bangun Datar</string>
+
+    //bangun ruang
+    <string name="bangun_ruang">Bangun Ruang</string>
+</resources>
